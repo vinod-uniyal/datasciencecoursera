@@ -1,2 +1,2 @@
 # datasciencecoursera
-DScoursesa john hopkins course
+DScoursera john hopkins course
